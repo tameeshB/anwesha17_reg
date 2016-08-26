@@ -1,0 +1,96 @@
+*{
+    font-family: 'Atma', cursive;
+}
+#biglogo{
+    background-image: url('logo-bg.png');
+        background-position: center;
+        background-position: fixed;
+    width:100%;
+    opacity:0.5;
+    background-size: contain;
+    background-repeat: no-repeat;
+    height:100%;
+    position:fixed;
+    top:0;
+    left:0;
+    z-index:-1;
+}
+#myloader{
+    display:none;
+}
+#pirateboy{
+    height:30%;
+    position:fixed;
+    
+    right:10;
+    opacity:0.7;
+    z-index:-1;
+}
+body{
+    /*background:#2b7493;*/
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#51a8ff+1,2d8ded+100 */
+background: #51a8ff; /* Old browsers */
+background: -moz-radial-gradient(center, ellipse cover,  #51a8ff 1%, #2d8ded 100%); /* FF3.6-15 */
+background: -webkit-radial-gradient(center, ellipse cover,  #51a8ff 1%,#2d8ded 100%); /* Chrome10-25,Safari5.1-6 */
+background: radial-gradient(ellipse at center,  #51a8ff 1%,#2d8ded 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#51a8ff', endColorstr='#2d8ded',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+
+}
+#header{
+    text-shadow: #bfb0b0 0 0 15px;
+    margin-top: 30px;
+    text-transform: uppercase;
+    font-family: 'Exo', sans-serif !important;
+    color: #194d63;
+}
+#genderLabel{
+    box-shadow:#000000 0 0 0px !important;
+    border:0px;
+}
+.inputbabe{
+	 margin: 20px;
+     border-radius:10px;
+     
+     cursor:pointer;
+     border-radius: 10px;
+     margin: 5px;
+     font-size: 30px;
+     padding-top: 7px;
+     padding-right: 20px;
+     padding-bottom: 7px;
+     padding-left: 20px;
+         
+     border:0px;
+     box-shadow:#FFFFFF 0 0 5px;     
+     margin-left: auto;
+     margin-right: auto; 
+}
+.coolk{
+    color: cornsilk;
+    background: rgba(0, 0, 0, 0.7);
+    
+     transition: background 0.5s ease-in-out,color 0.5s ease-in-out;
+    
+}.coolk:focus{
+    background:rgba(245, 245, 245,1);
+    color:#000000;
+    outline:none;
+
+}
+.cooll{
+    background:#cc3333;
+    color:#000000;
+}
+#mainForm{
+    
+    border-radius: 15px;
+    margin-top: 20px;
+    color:white;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    background: rgba(0, 0, 0, 0.7);
+     border:0px;
+     box-shadow:#000000 0 0 20px;
+     
+}
+
