@@ -2,11 +2,11 @@
 <head>
 	<title>Registration</title>
 	<meta charset="utf-8">
-	<link rel="shortcut icon" href="../favicon.ico">
+	<link rel="shortcut icon" href="favicon.ico">
  	<meta name="theme-color" content="#16627a">
- 	<link rel="stylesheet" href="../assets/css/reg.css" />
- 	<link rel="stylesheet" media="only screen and (min-width: 995px)" href="../assets/css/d.css" />
- 	<link rel="stylesheet" media="only screen and (max-width: 994px)" href="../assets/css/m.css" />
+ 	<link rel="stylesheet" href="reg.css" />
+ 	<link rel="stylesheet" media="only screen and (min-width: 995px)" href="d.css" />
+ 	<link rel="stylesheet" media="only screen and (max-width: 994px)" href="m.css" />
  	<meta name="viewport" content="width=device-width, initial-scale=1">
  	<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js'></script>
  	<link rel="stylesheet" href="//code.jquery.com/ui/1.12.0/themes/base/jquery-ui.css">
@@ -161,7 +161,7 @@
 
 <center>
 <div id="backg"></div>
-<h1 id="header">Registration</h1><img src="../images/reg/ajax-loader.gif" width="30px" id="myloader">
+<h1 id="header">Registration</h1><img src="ajax-loader.gif" width="30px" id="myloader">
 		<div id="mainForm">
 			
 			<form   action="javascript:">
@@ -188,7 +188,7 @@
 		</div>
 	
 </center>
-<img src="../images/reg/pirate.png" id="pirateboy">
+<img src="pirate.png" id="pirateboy">
 
 <div id="biglogo"></div>
 </body>
