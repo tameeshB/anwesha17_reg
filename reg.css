@@ -30,9 +30,9 @@
     left:0;
     width:100%;
     height:100%;
- background-image:url('images/hugebg.png');
- background-size: cover;
- background-position: center;
+    background-image:url('images/hugebg.png');
+    background-size: cover;
+    background-position: center;
     /*
 background: #2e2e2e; 
 background: -moz-radial-gradient(circle, #2e2e2e , #000000); 
@@ -49,10 +49,8 @@ background: radial-gradient(circle, #2e2e2e , #000000);
     color: #1489bb;
 }
 #genderLabel{
-    border:0px;
-
+     border:0px;
      margin: 20px;
-     
      cursor:pointer;
      border-radius: 10px;
      margin: 5px;
@@ -61,51 +59,44 @@ background: radial-gradient(circle, #2e2e2e , #000000);
      padding-right: 20px;
      padding-bottom: 7px;
      padding-left: 20px;
-            
      margin-left: auto;
      margin-right: auto; 
 }
 .inputbabe{
-	 margin: 20px;
-     border-radius:10px;
-     
-     cursor:pointer;
-     border-radius: 10px;
-     margin: 5px;
-     font-size: 30px;
-     padding-top: 7px;
-     padding-right: 20px;
-     padding-bottom: 7px;
-     padding-left: 20px;
-         
-     border:0px;
-     box-shadow:#FFFFFF 0 0 5px;     
-     margin-left: auto;
-     margin-right: auto; 
+	margin: 20px;
+     	border-radius:10px;
+        cursor:pointer;
+     	border-radius: 10px;
+	margin: 5px;
+     	font-size: 30px;
+     	padding-top: 7px;
+     	padding-right: 20px;
+     	padding-bottom: 7px;
+     	padding-left: 20px;
+        border:0px;
+     	box-shadow:#FFFFFF 0 0 5px;     
+     	margin-left: auto;
+     	margin-right: auto; 
 }
 .coolk{
     color: cornsilk;
     background: rgba(0, 0, 0, 0.7);
-    
-     
 }
 .cooll{
     background:#cc3333;
     color:#000000;
 }
 #mainForm{
-    
     border-radius: 15px;
     margin-top: 20px;
     color:white;
     padding-top: 30px;
     padding-bottom: 20px;
     background: rgba(20, 66, 106, 0.29);
-     border:0px;
-     box-shadow:#000000 0 0 20px;
+    border:0px;
+    box-shadow:#000000 0 0 20px;
      
 }
-
 input[type="text"]{
 	cursor:text;
 }
