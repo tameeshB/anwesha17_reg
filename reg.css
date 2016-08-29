@@ -106,3 +106,6 @@ background: radial-gradient(circle, #2e2e2e , #000000);
      
 }
 
+input[type="text"]{
+	cursor:text;
+}
