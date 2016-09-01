@@ -3,5 +3,4 @@
 Front end for user registration
 #index.php is the index for regular user registration
 Pirate theme based registration page final version<br>
-The new (temp) version is supposed the materialize frontend framework.<br>
-It will be updated on my forked reposotiory of anweshaiitp<br>
+The actual version with the backend is there on my forked repo of "anweshaiitp"
